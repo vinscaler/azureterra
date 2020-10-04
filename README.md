@@ -2,3 +2,7 @@
 IaaS and PaaS code snippets for study (Terraform)
 
 # This is awesome dude!!!
+
+- Fourth
+- Fifth
+- Sixth

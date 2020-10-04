@@ -6,4 +6,5 @@ IaaS and PaaS code snippets for study (Terraform)
 - Second
 - Third
 
-https://www.dreamstime.com/almaty-kazakhstan-motorcycle-show-central-square-city-somersaults-air-image197686096
+
+<img src="https://www.dreamstime.com/almaty-kazakhstan-motorcycle-show-central-square-city-somersaults-air-image197686096" alt="bike somersaults" width="500" height="600">
